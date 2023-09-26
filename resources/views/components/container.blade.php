@@ -41,6 +41,11 @@
                            aria-current="page">Start</a>
                     </li>
                     <li class="py-2">
+                        <a href="/about-us"
+                           class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent {{ request()->routeIs('about-us') ? 'md:text-red-700 md:dark:text-red-500' : '' }} md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
+                           aria-current="page">Over ons</a>
+                    </li>
+                    <li class="py-2">
                         <a href="/team"
                            class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent {{ request()->routeIs('team') ? 'md:text-red-700 md:dark:text-red-500' : '' }} md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
                            aria-current="page">Team</a>
@@ -49,6 +54,12 @@
                         <a href="/partners"
                            class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent {{ request()->routeIs('partners') ? 'md:text-red-700 md:dark:text-red-500' : '' }} md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
                            aria-current="page">Partners</a>
+                    </li>
+                    <li class="py-2">
+                        <a href="/sponsor"
+                           class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent {{ request()->routeIs('sponsor') ? 'md:text-red-700 md:dark:text-red-500' : '' }} md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">
+                            Sponsoring
+                        </a>
                     </li>
                     <li class="py-2">
                         <a href="/events"

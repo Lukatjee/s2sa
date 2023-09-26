@@ -30,6 +30,13 @@
                                linkedin="https://linkedin.com/in/isabella-van-der-meulen-6019a292"
                                website="https://www.isabellavandermeulen.nl/"
                 />
+                <x-team.member image="images/pieter_steeno.jpg"
+                               name="Pieter Steeno"
+                               function="Sportarts"
+                               mail="mailto:info@doktersgrasheide.be"
+                               linkedin=""
+                               website="https://www.doktersgrasheide.be/"
+                />
                 <x-team.member image="images/SEBERT PENEN.png"
                                name="Sebert Penen"
                                function="Performance Coach"
@@ -46,28 +53,28 @@
                 />
                 <x-team.member image="images/HANS LEEMANS.jpeg"
                                name="Hans Leemans"
-                               function="Medewerker"
+                               function="Vrijwillige Medewerker"
                                mail="mailto:hans.leemans1@telenet.be"
                                linkedin="https://linkedin.com/in/hans-leemans-a171713"
                                website=""
                 />
                 <x-team.member image="images/sonia.jpg"
                                name="Sonia Wilmet"
-                               function="Medewerker"
+                               function="Vrijwillige Medewerker"
                                mail="mailto:sonia.wilmet52@gmail.com"
                                linkedin=""
                                website=""
                 />
                 <x-team.member image="images/LUC DOMS.png"
                                name="Luc Doms"
-                               function="Medewerker"
+                               function="Vrijwillige Medewerker"
                                mail="mailto:luc.doms@be.bosch.com"
                                linkedin="https://linkedin.com/in/luc-doms-65888685"
                                website=""
                 />
                 <x-team.member image="images/BENNY VERVLIET.jpg"
                                name="Benny Vervliet"
-                               function="Medewerker"
+                               function="Penningmeester"
                                mail="mailto:benny.vervliet@fortesnet.be"
                                linkedin="https://linkedin.com/in/vervlietbenny"
                                website=""/>

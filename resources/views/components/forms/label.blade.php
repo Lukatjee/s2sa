@@ -1,1 +1,1 @@
-<label for="{{ $name }}" class="block mb-2 text-sm font-medium text-gray-900">{{ ucwords($name) }}</label>
+<label for="{{ $name }}" class="block text-sm font-semibold leading-6 text-gray-900">{{ ucwords($name) }}</label>

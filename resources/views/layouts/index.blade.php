@@ -28,9 +28,9 @@
             Johan en zijn verhaal kennen. We waren eerst verbaasd van zijn moed, maar zagen het meteen zitten om mee te
             werken”</p>
 
-        <div class="grid grid-cols-2 gap-4">
-            <img class="h-96" src="images/3_heyman_hilde.jpeg">
-            <img class="h-96" src="images/2_lambrecht_bart_1.jpeg">
+        <div class="grid md:grid-cols-2 gap-4">
+            <img class="h-96 mx-auto" src="images/3_heyman_hilde.jpeg">
+            <img class="h-96 mx-auto" src="images/2_lambrecht_bart_1.jpeg">
         </div>
     </article>
 

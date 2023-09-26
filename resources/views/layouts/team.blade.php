@@ -78,6 +78,12 @@
                                mail="mailto:benny.vervliet@fortesnet.be"
                                linkedin="https://linkedin.com/in/vervlietbenny"
                                website=""/>
+                <x-team.member image="images/luka.jpg"
+                               name="Luka Stoop"
+                               function="Webmaster"
+                               mail="mailto:luka@start2sportagain.be"
+                               linkedin="https://www.linkedin.com/in/luka-stoop-9a7149218/"
+                               website="https://luka.omg.lol"/>
             </div>
         </div>
     </section>

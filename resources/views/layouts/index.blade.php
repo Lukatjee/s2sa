@@ -8,15 +8,13 @@
 
         <h1>START2SPORTAGAIN</h1>
         <h2>Doelstelling</h2>
-        <p>De VZW heeft als doel om via acties en sponsoring gelden in te zamelen, dit ter ondersteuning van projecten
-            die mensen met een beperking te kans geeft of aanzet tot sporten. Hierdoor krijgen ze de mogelijkheid om
-            meer te bewegen wat hun mentale, fysische en fysieke gezondheid en welzijn zal ten goede komen.
+        <p>De VZW heeft als doel om via acties en sponsoring geld in te zamelen ter ondersteuning van projecten die
+            mensen met een beperking de kans geven om te sporten of hen aanzetten tot sporten. Hierdoor krijgen zij de
+            mogelijkheid om meer te bewegen, wat hun mentale, fysieke en algehele gezondheid en welzijn ten goede zal
+            komen.
         </p>
-        <p>Het is de bedoeling om jaarlijks voldoende fondsen te verzamelen om minstens één project financieel te
-            ondersteunen. Met onze initiatieven wil S2SA het <strong>probleem</strong> van de kostprijs om te sporten en
-            de gevolgen
-            hiervan op de mentale, fysische en fysieke toestand van de patiënt onder de aandacht van de overheid
-            brengen.</p>
+        <p>Met onze initiatieven wil S2SA de kwestie van de kosten voor sportdeelname en de gevolgen daarvan voor de
+            mentale, fysieke en algehele gezondheid van de betrokkenen onder de aandacht van de overheid brengen.</p>
 
         <h2>Initiatief 2024</h2>
         <p>Johan De Groof, de stichter van S2SA, wiens één been geamputeerd is, gaat de uitdaging aan om tijdens een

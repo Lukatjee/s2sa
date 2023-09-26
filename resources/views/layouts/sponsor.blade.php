@@ -1,5 +1,11 @@
 <x-container class="max-w-8xl">
     <div class="bg-white py-8 lg:py-16">
+        <div class="max-w-4xl container px-6 py-10 mx-auto">
+            <h2 class="mb-4 lg:mb-8 text-3xl font-extrabold tracking-tight leading-tight text-center text-gray-900 md:text-4xl">
+                Sponsoring</h2>
+            <p class="mb-4 lg:mb-8 mx-auto my-6 text-center text-gray-500">
+                Momenteel staat ons online betaalsysteem nog niet op punt. In de tussentijd kan je alsnog sponsoren, dit kan op het rekeningnummer <b>KBC BE42 7370 6399 2054</b> <span class="font-semibold">(Laat zeker genoeg gegevens achter!) </span> Mocht je nog met vragen zitten, aarzel dan niet om <a href="/contact" class="text-indigo-600 underline underline-offset-2">contact</a> op te nemen!</p>
+        </div>
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div
                 class="isolate mx-auto mt-10 grid max-w-md grid-cols-1 gap-8 md:max-w-2xl md:grid-cols-2 lg:max-w-4xl xl:mx-0 xl:max-w-none xl:grid-cols-3">
@@ -159,7 +165,7 @@
                                       d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
                                       clip-rule="evenodd"/>
                             </svg>
-                            8 VIP-kaarten voor het slotevenement op 25/05/2024
+                            6 VIP-kaarten voor het slotevenement op 25/05/2024
                         </li>
                         <li class="flex gap-x-3">
                             <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"
@@ -168,7 +174,7 @@
                                       d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
                                       clip-rule="evenodd"/>
                             </svg>
-                            VIP Tafel voor 8 personen met 8 flessen cava & hapjes
+                            VIP Tafel voor 6 personen met 4 flessen cava & hapjes
                         </li>
                         <li class="flex gap-x-3">
                             <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"

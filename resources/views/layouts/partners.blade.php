@@ -22,11 +22,11 @@
 
             <div class="grid grid-cols-1 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 mb-4 lg:mb-8">
                 <x-partners.link href="https://wolffaertshof.be/"><img src="/images/Logo_Wolffaertshof.PNG" class="w-64"
-                                                                       alt=""></x-partners.link>
-                <x-partners.link href="https://www.go4jobs.be/"><img src="/images/go4jobs.png" alt="" class="w-64">
+                                                                       alt="Wolffaertshof"></x-partners.link>
+                <x-partners.link href="https://www.go4jobs.be/"><img src="/images/go4jobs.png" alt="Go4Jobs" class="w-64">
                 </x-partners.link>
                 <x-partners.link href="https://www.ovh-orthopedie.be/"><img src="/images/ovh-orthopedie.jpg"
-                                                                            class="w-64" alt="">
+                                                                            class="w-64" alt="OVH">
                 </x-partners.link>
             </div>
 
@@ -57,14 +57,14 @@
             <div id="tabContents">
                 <div class="hidden p-4 rounded-lg dark:bg-gray-800" id="diamond" role="tabpanel" aria-labelledby="diamond-tab">
                     <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
-                        <x-partners.link href="https://www.rijwielen-vandenplas.be/nl"><img src="/images/vandenplas.png" alt="">
+                        <x-partners.link href="https://www.rijwielen-vandenplas.be/nl"><img src="/images/vandenplas.png" alt="Van den plas">
                         </x-partners.link>
-                        <x-partners.link href="https://www.atmospher.be/"><img src="/images/atmospher.webp" alt="">
+                        <x-partners.link href="https://www.atmospher.be/"><img src="/images/atmospher.webp" alt="Atmospher">
                         </x-partners.link>
                         <x-partners.link href="https://kokerij.be/"><img src="/images/kokerij.png" alt=""></x-partners.link>
-                        <x-partners.link href="https://www.stannah.be/nl-be/"><img src="/images/stannah.jpg" alt="">
+                        <x-partners.link href="https://www.stannah.be/nl-be/"><img src="/images/stannah.jpg" alt="Stannah">
                         </x-partners.link>
-                        <x-partners.link href="https://dantha-photography.be/"><img src="/images/dantha.png" alt="">
+                        <x-partners.link href="https://dantha-photography.be/"><img src="/images/dantha.png" alt="Dantha">
                         </x-partners.link>
                     </div>
                 </div>

@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description"
+          content="Sportkansen voor mensen met een beperking. Help ons de drempels verlagen, zodat iedereen kan genieten van een actief en gezond leven!">
     <script src="//unpkg.com/alpinejs" defer></script>
     <script src="https://www.google.com/recaptcha/api.js"></script>
-    <title>S2SA</title>
+    <title>VZW Start2SportAgain</title>
     <link rel="shortcut icon" href="/images/logo.png" type="image/x-icon">
     @vite(['resources/css/app.css','resources/js/app.js'])
 </head>
@@ -74,7 +76,8 @@
                         </a>
                     </li>
                     <li>
-                        <a href="/support" class="block py-2 px-3 text-white rounded bg-red-500 hover:bg-red-600 my-auto text-center align-middle md:mr-0">
+                        <a href="/support"
+                           class="block py-2 px-3 text-white rounded bg-red-500 hover:bg-red-600 my-auto text-center align-middle md:mr-0">
                             Help Ons
                         </a>
                     </li>

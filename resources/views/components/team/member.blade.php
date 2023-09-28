@@ -2,7 +2,7 @@
 
 <div class="dark:bg-gray-800 dark:border-gray-700 max-w-sm mx-auto rounded-lg shadow w-full">
     <div class="flex flex-col items-center py-10">
-        <img class="w-48 h-48 mb-3 rounded-full shadow-lg" src="{{ $image }}" alt=""/>
+        <img class="w-48 h-48 mb-3 rounded-full shadow-lg" src="{{ $image }}" alt="Member Image"/>
         <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">{{ $name }}</h5>
         <span class="text-sm text-gray-500 dark:text-gray-400">{{ $function }}</span>
         <div class="flex mt-4 space-x-3 md:mt-6">

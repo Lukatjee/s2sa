@@ -91,9 +91,9 @@
                     bij Aartselaarse schepenen Hilde Heyman en Bart Lambrecht. “Op de Lentedrink van de gemeente leerden we
                     Johan en zijn verhaal kennen. We waren eerst verbaasd van zijn moed, maar zagen het meteen zitten om mee te
                     werken”</p>
-                <div class="grid md:grid-cols-2 mx-auto">
-                    <img class="h-96 mx-auto" src="images/hilde.jpg" alt="Image Hilde">
-                    <img class="h-96 mx-auto" src="images/bart.jpg" alt="Image Bart">
+                <div class="grid md:grid-cols-2 gap-2 mx-auto">
+                    <img class="mx-auto" src="images/hilde.jpg" alt="Image Hilde">
+                    <img class="mx-auto" src="images/bart.jpg" alt="Image Bart">
                 </div>
             </div>
         </div>

@@ -62,7 +62,7 @@
                         <x-partners.link href="https://www.atmospher.be/"><img src="/images/atmospher.webp" alt="Atmospher">
                         </x-partners.link>
                         <x-partners.link href="https://kokerij.be/"><img src="/images/kokerij.png" alt=""></x-partners.link>
-                        <x-partners.link href="https://www.stannah.be/nl-be/"><img src="/images/stannah.jpg" alt="Stannah">
+                        <x-partners.link href="https://www.stannah.com/nl-be/"><img src="/images/stannah.jpg" alt="Stannah">
                         </x-partners.link>
                         <x-partners.link href="https://dantha-photography.be/"><img src="/images/dantha.png" alt="Dantha">
                         </x-partners.link>

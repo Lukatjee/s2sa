@@ -21,7 +21,7 @@
             Meer en meer mensen weerspiegelen zich in mijn verhaal. Zijn verbaasd hoe ik omga met mijn beenamputatie
             en hopen dat ook zij een beter leven mogen krijgen door aan sport te gaan doen.</p>
 
-        <h2>Joris Schuerewegen</h2>
+        <h2>Joris Schuerwegen</h2>
         <p>Mijn naam is Joris en ik ben kinesitherapeut bij MOTUS in Lille. Reeds 2 jaar geleden heb ik de eer gehad om
             Johan te ontmoeten. Johan heeft helaas een onderbeen moeten laten amputeren als gevolg van een plettrauma en
             was op zoek naar iemand die hem kon helpen bij zijn revalidatie. Via To Walk Again is hij bij mij terecht

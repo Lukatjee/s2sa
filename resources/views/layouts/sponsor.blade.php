@@ -174,7 +174,83 @@
                                       d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
                                       clip-rule="evenodd"/>
                             </svg>
-                            VIP Tafel voor 6 personen met 4 flessen cava & hapjes
+                            VIP Tafel voor 6 personen met 3 flessen cava & hapjes
+                        </li>
+                        <li class="flex gap-x-3">
+                            <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"
+                                 aria-hidden="true">
+                                <path fill-rule="evenodd"
+                                      d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                                      clip-rule="evenodd"/>
+                            </svg>
+                            Vermelding bedrijf bij slot cermonie en overhandiging cheque
+                        </li>
+                        <li class="flex gap-x-3">
+                            <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"
+                                 aria-hidden="true">
+                                <path fill-rule="evenodd"
+                                      d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                                      clip-rule="evenodd"/>
+                            </svg>
+                            Mogelijkheid tot promostand
+                        </li>
+                        <li class="flex gap-x-3">
+                            <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"
+                                 aria-hidden="true">
+                                <path fill-rule="evenodd"
+                                      d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                                      clip-rule="evenodd"/>
+                            </svg>
+                            Vermelding op onze website
+                        </li>
+                        <li class="flex gap-x-3">
+                            <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"
+                                 aria-hidden="true">
+                                <path fill-rule="evenodd"
+                                      d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                                      clip-rule="evenodd"/>
+                            </svg>
+                            Banners op het terrein
+                        </li>
+                        <li class="flex gap-x-3">
+                            <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"
+                                 aria-hidden="true">
+                                <path fill-rule="evenodd"
+                                      d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                                      clip-rule="evenodd"/>
+                            </svg>
+                            Reclame op TV tijdens slotevenement 25/05/2024
+                        </li>
+                    </ul>
+                </div>
+                <div class="rounded-3xl p-8 ring-1 ring-gray-200">
+                    <h3 id="tier-enterprise" class="text-lg font-semibold leading-8 text-gray-900">Platinum</h3>
+                    <p class="mt-4 text-sm leading-6 text-gray-600">Platinum: Waar luxe en exclusiviteit samenkomen.</p>
+                    <p class="mt-6 flex items-baseline gap-x-1">
+                        <span class="text-sm font-semibold leading-6 text-gray-600">vanaf</span>
+                        <span class="text-4xl font-bold tracking-tight text-gray-900">€1.500</span>
+                    </p>
+                    <a href="#" aria-describedby="tier-enterprise"
+                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300 pointer-events-none">Doe
+                        mee</a>
+                    <ul role="list" class="mt-8 space-y-3 text-sm leading-6 text-gray-600">
+                        <li class="flex gap-x-3">
+                            <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"
+                                 aria-hidden="true">
+                                <path fill-rule="evenodd"
+                                      d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                                      clip-rule="evenodd"/>
+                            </svg>
+                            8 VIP-kaarten voor het slotevenement op 25/05/2024
+                        </li>
+                        <li class="flex gap-x-3">
+                            <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"
+                                 aria-hidden="true">
+                                <path fill-rule="evenodd"
+                                      d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                                      clip-rule="evenodd"/>
+                            </svg>
+                            VIP Tafel voor 8 personen met 4 flessen cava & hapjes
                         </li>
                         <li class="flex gap-x-3">
                             <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"
@@ -249,7 +325,7 @@
                                       d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
                                       clip-rule="evenodd"/>
                             </svg>
-                            VIP Tafel voor 12 personen met 8 flessen cava & hapjes
+                            VIP Tafel voor 10 personen met 5 flessen cava & hapjes
                         </li>
                         <li class="flex gap-x-3">
                             <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"

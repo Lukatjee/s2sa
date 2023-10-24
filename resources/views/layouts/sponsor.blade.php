@@ -4,7 +4,7 @@
             <h2 class="mb-4 lg:mb-8 text-3xl font-extrabold tracking-tight leading-tight text-center text-gray-900 md:text-4xl">
                 Sponsoring</h2>
             <p class="mb-4 lg:mb-8 mx-auto my-6 text-center text-gray-500">
-                Momenteel staat ons online betaalsysteem nog niet op punt. In de tussentijd kan je alsnog sponsoren, dit kan op het rekeningnummer <b>KBC BE42 7370 6399 2054</b> <span class="font-semibold">(Laat zeker genoeg gegevens achter!) </span> Mocht je nog met vragen zitten, aarzel dan niet om <a href="/contact" class="text-indigo-600 underline underline-offset-2">contact</a> op te nemen!</p>
+                Ons online betaalsysteem is nu beschikbaar en je kunt hiermee sponsoren. Als je echter de voorkeur geeft aan een overschrijving, kan dit nog steeds op het rekeningnummer <b>KBC BE42 7370 6399 2054</b> <span class="font-semibold">(Laat zeker genoeg gegevens achter!)</span>. Mocht je nog met vragen zitten, aarzel dan niet om <a href="/contact" class="text-indigo-600 underline underline-offset-2">contact</a> op te nemen!
         </div>
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div
@@ -16,8 +16,8 @@
                         <span class="text-sm font-semibold leading-6 text-gray-600">vanaf</span>
                         <span class="text-4xl font-bold tracking-tight text-gray-900">€75</span>
                     </p>
-                    <a href="#" aria-describedby="tier-hobby"
-                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300 pointer-events-none">Doe
+                    <a href="https://buy.stripe.com/cN2dUjfQl8qjb4seUV" target="_blank" aria-describedby="tier-hobby"
+                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300">Doe
                         mee</a>
                     <ul role="list" class="mt-8 space-y-3 text-sm leading-6 text-gray-600">
                         <li class="flex gap-x-3">
@@ -47,8 +47,8 @@
                         <span class="text-sm font-semibold leading-6 text-gray-600">vanaf</span>
                         <span class="text-4xl font-bold tracking-tight text-gray-900">€175</span>
                     </p>
-                    <a href="#" aria-describedby="tier-hobby"
-                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300 pointer-events-none">Doe
+                    <a href="https://buy.stripe.com/fZe6rR8nT7mf3C08wy" target="_blank" aria-describedby="tier-hobby"
+                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300">Doe
                         mee</a>
                     <ul role="list" class="mt-8 space-y-3 text-sm leading-6 text-gray-600">
                         <li class="flex gap-x-3">
@@ -96,8 +96,8 @@
                         <span class="text-sm font-semibold leading-6 text-gray-600">vanaf</span>
                         <span class="text-4xl font-bold tracking-tight text-gray-900">€250</span>
                     </p>
-                    <a href="#" aria-describedby="tier-startup"
-                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 bg-red-600 text-white shadow-sm hover:bg-red-500 pointer-events-none">Doe
+                    <a href="https://buy.stripe.com/28o6rRcE98qj4G47sv" target="_blank" aria-describedby="tier-startup"
+                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 bg-red-600 text-white shadow-sm hover:bg-red-500">Doe
                         mee</a>
                     <ul role="list" class="mt-8 space-y-3 text-sm leading-6 text-gray-600">
                         <li class="flex gap-x-3">
@@ -154,8 +154,8 @@
                         <span class="text-sm font-semibold leading-6 text-gray-600">vanaf</span>
                         <span class="text-4xl font-bold tracking-tight text-gray-900">€750</span>
                     </p>
-                    <a href="#" aria-describedby="tier-enterprise"
-                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300 pointer-events-none">Doe
+                    <a href="https://buy.stripe.com/00g7vVgUpgWP6Oc28c" target="_blank" aria-describedby="tier-enterprise"
+                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300">Doe
                         mee</a>
                     <ul role="list" class="mt-8 space-y-3 text-sm leading-6 text-gray-600">
                         <li class="flex gap-x-3">
@@ -230,8 +230,8 @@
                         <span class="text-sm font-semibold leading-6 text-gray-600">vanaf</span>
                         <span class="text-4xl font-bold tracking-tight text-gray-900">€1.500</span>
                     </p>
-                    <a href="#" aria-describedby="tier-enterprise"
-                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300 pointer-events-none">Doe
+                    <a href="https://buy.stripe.com/00gdUjbA56ibegE6ot" target="_blank" aria-describedby="tier-enterprise"
+                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300">Doe
                         mee</a>
                     <ul role="list" class="mt-8 space-y-3 text-sm leading-6 text-gray-600">
                         <li class="flex gap-x-3">
@@ -306,8 +306,8 @@
                         <span class="text-sm font-semibold leading-6 text-gray-600">vanaf</span>
                         <span class="text-4xl font-bold tracking-tight text-gray-900">€2.500</span>
                     </p>
-                    <a href="#" aria-describedby="tier-enterprise"
-                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300 pointer-events-none">Doe mee</a>
+                    <a href="https://buy.stripe.com/bIY5nN7jPgWPgoMaEK" target="_blank" aria-describedby="tier-enterprise"
+                       class="mt-6 block rounded-md py-2 px-3 text-center text-sm font-semibold leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600 text-red-600 ring-1 ring-inset ring-red-200 hover:ring-red-300">Doe mee</a>
                     <ul role="list" class="mt-8 space-y-3 text-sm leading-6 text-gray-600">
                         <li class="flex gap-x-3">
                             <svg class="h-6 w-5 flex-none text-red-600" viewBox="0 0 20 20" fill="currentColor"

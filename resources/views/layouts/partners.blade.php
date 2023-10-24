@@ -34,6 +34,7 @@
             <div class="sm:hidden">
                 <label for="tabs" class="sr-only">Selecteer een type</label>
                 <select id="tabs" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2.5">
+                    <option value="#platinum">Platinum</option>
                     <option value="#diamond">Diamond</option>
                     <option value="#golden">Golden</option>
                     <option value="#silver">Silver</option>
@@ -41,6 +42,9 @@
                 </select>
             </div>
             <ul class="hidden text-sm font-medium text-center text-gray-500 divide-x divide-gray-200 rounded-lg shadow sm:flex" id="myTab" data-tabs-toggle="#tabContents" role="tablist">
+                <li class="w-full" role="presentation">
+                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-gray-700" id="platinum-tab" data-tabs-target="#platinum" type="button" role="tab" aria-controls="platinum">Platinum</button>
+                </li>
                 <li class="w-full" role="presentation">
                     <button class="inline-block w-full p-4 rounded-l-lg" id="diamond-tab" data-tabs-target="#diamond" type="button" role="tab" aria-controls="diamond">Diamond</button>
                 </li>
@@ -55,6 +59,9 @@
                 </li>
             </ul>
             <div id="tabContents">
+                <div class="hidden p-4 rounded-lg" id="platinum" role="tabpanel" aria-labelledby="platinum-tab">
+                    <p class="text-center">Er zijn nog geen <span class="font-bold text-gray-700">Platinum</span> sponsors.</p>
+                </div>
                 <div class="hidden p-4 rounded-lg dark:bg-gray-800" id="diamond" role="tabpanel" aria-labelledby="diamond-tab">
                     <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
                         <x-partners.link href="https://www.rijwielen-vandenplas.be/nl"><img src="/images/vandenplas.png" alt="Van den plas">
@@ -100,7 +107,7 @@
             });
 
             tabContents.forEach(content => {
-                if (content.id === selectedValue.substring(1)) {
+                if (content.id === selectedValue.substring(2)) {
                     content.classList.remove('hidden');
                 } else {
                     content.classList.add('hidden');

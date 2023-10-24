@@ -37,11 +37,11 @@
             </button>
             <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-user">
                 <ul class="flex flex-col font-medium mt-4 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-transparent dark:bg-gray-800 md:dark:bg-transparent dark:border-gray-700">
-                    <li class="py-2">
-                        <a href="/"
-                           class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent {{ request()->routeIs('start') ? 'md:text-red-700 md:dark:text-red-500' : '' }} md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
-                           aria-current="page">Start</a>
-                    </li>
+{{--                    <li class="py-2">--}}
+{{--                        <a href="/"--}}
+{{--                           class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent {{ request()->routeIs('start') ? 'md:text-red-700 md:dark:text-red-500' : '' }} md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"--}}
+{{--                           aria-current="page">Start</a>--}}
+{{--                    </li>--}}
                     <li class="py-2">
                         <a href="/about-us"
                            class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent {{ request()->routeIs('about-us') ? 'md:text-red-700 md:dark:text-red-500' : '' }} md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"

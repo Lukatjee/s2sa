@@ -6,8 +6,7 @@
             <p class="mb-4 lg:mb-8 mx-auto my-6 text-center text-gray-500">
                 Wens je een gift te doen? Je kunt dit zowel via ons online betaalsysteem doen als via overschrijving.
                 Voor een overschrijving kan je gebruik maken van het rekeningnummer <b>KBC BE42 7370 6399 2054</b> met
-                vermelding <b>"Project 2024"</b>. <span class="text-xs font-semibold">Giften boven 40€ krijgen een fiscaal attest.</span>
-                Laat voldoende gegevens achter!</p>
+                vermelding <b>"Project 2024"</b>. Laat voldoende gegevens achter!</p>
             <a href="https://donate.stripe.com/fZe8zZaw1fSLb4s7ss" target="_blank"
                     class="rounded-md bg-red-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-red-600">
                 Éénmalige donatie

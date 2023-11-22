@@ -149,7 +149,7 @@
                 </div>
                 <div class="rounded-3xl p-8 ring-1 ring-gray-200">
                     <h3 id="tier-enterprise" class="text-lg font-semibold leading-8 text-gray-900">Diamond</h3>
-                    <p class="mt-4 text-sm leading-6 text-gray-600">Diamantniveau: we stralen samen!</p>
+                    <p class="mt-4 text-sm leading-6 text-gray-600">Diamantniveau: we stralen samen.</p>
                     <p class="mt-6 flex items-baseline gap-x-1">
                         <span class="text-sm font-semibold leading-6 text-gray-600">vanaf</span>
                         <span class="text-4xl font-bold tracking-tight text-gray-900">€750</span>

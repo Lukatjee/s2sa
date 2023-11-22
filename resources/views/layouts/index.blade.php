@@ -20,6 +20,11 @@
         <p>Johan De Groof, de stichter van S2SA, wiens één been geamputeerd is, gaat de uitdaging aan om tijdens een
             evenement dat we in de zomer van 2024 organiseren, met behulp van Strava de Mont Ventoux te beklimmen.</p>
         <img class="m-auto" src="images/johan2.jpg" alt="Image Johan">
+        <h2>Project 2024 - 2025</h2>
+        <p>Ook in 2025 ondersteunt Start 2 Sport Again de sportieve ambitie van een uitzonderlijk veerkrachtige persoon
+            met een fysieke uitdaging, Stijn Lecleir. Als geoefende handbiker wil hij een unieke uitdaging aangaan en de
+            Ronde van Vlaanderen fietsen met de handbike.</p>
+        <p class="font-bold text-center">Met de ingezamelde fondsen zaal S2SA een nieuwe handbike voor Stijn aankopen</p>
     </article>
 
 </x-container>

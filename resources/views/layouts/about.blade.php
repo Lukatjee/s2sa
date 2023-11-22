@@ -1,5 +1,9 @@
 <x-container>
 
+    <header>
+        <img class="object-cover pb-8" src="/images/banner2.jpeg" alt="Banner"/>
+    </header>
+
     <article class="format lg:format-lg mx-auto">
 
         <h1>Het ontstaan van S2SA (Start 2 Sport Again)</h1>
@@ -50,6 +54,31 @@
             vinden in het leven na een amputatie en te laten zien dat er nog steeds veel mogelijkheden zijn om actief en
             gelukkig te leven.
 
+        </p>
+        <h2>Stijn Lecleir</h2>
+        <p>Stijn "Popeye" Lecleir (41) is geboren met arthrogryposis (AMC), een aandoening aan de spieren en gewrichten
+            die zorgen voor een standafwijking en bewegingsbeperking. Bij Stijn zijn de spieren in de onderste ledematen
+            onderontwikkeld. Zijn bovenste ledematen en romp zijn niet aangetast en heeft Stijn doorheen zijn hele leven
+            volop ontwikkeld en getraind.
+        </p>
+        <p>Stijn traint in het handbikeseizoen, van november tot juni, wekelijks met vzw Join2Bike. Ritten van dertig
+            kilometer of langer zijn geen uitzondering ter voorbereiding op de jaarlijkse reis naar de Oostenrijkse
+            bergen. Zo fietste Stijn ondermeer al de Stelvio op.
+        </p>
+        <p>
+            "Voor de uitdaging in 2025 zal ik toch mijn kuiten mogen insmeren. Met de wekelijkse training zal ik er niet
+            komen maar dat is net wat me aanspreekt: mijn grens verleggen en iets unieks verwezenlijken", aldus Stijn.
+        </p>
+        <p>
+            Het wordt niet de eerste keer dat Stijn traint voor een sportief doel. Zo zwom hij nog de selecties voor de
+            Paralympische Spelen van 2000 in Sydney en dit zowel op de 50 meter, 100 meter als 400 meter crawl. "Ik weet
+            wat het is om door te zetten en die focus volop te leggen op dat ene doel. Met de financiële en
+            organisatorische steun van S2SA wil ik deze uitdaging aangaan."
+        </p>
+        <p>
+            Naast de handbike is Stijn een goedlachse schoenmaker uit Mechelen. Werken doet hij in Leuven bij Orthopedie
+            Van Haesendonck waar hij orthopedische schoenen maakt en herstelt. Het zijn vooral de variatie en de leuke
+            collega's die ervoor zorgen dat Stijn zijn job elke dag met de glimlach doet.
         </p>
     </article>
 

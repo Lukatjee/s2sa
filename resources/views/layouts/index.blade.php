@@ -24,7 +24,7 @@
         <p>Ook in 2025 ondersteunt Start 2 Sport Again de sportieve ambitie van een uitzonderlijk veerkrachtige persoon
             met een fysieke uitdaging, Stijn Lecleir. Als geoefende handbiker wil hij een unieke uitdaging aangaan en de
             Ronde van Vlaanderen fietsen met de handbike.</p>
-        <p class="font-bold text-center">Met de ingezamelde fondsen zaal S2SA een nieuwe handbike voor Stijn aankopen</p>
+        <p class="font-bold text-center">Met de ingezamelde fondsen zal S2SA een nieuwe handbike voor Stijn aankopen</p>
     </article>
 
 </x-container>

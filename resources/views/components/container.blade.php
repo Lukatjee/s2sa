@@ -47,7 +47,7 @@
                         <a href="/sponsor" class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-600 {{ request()->routeIs('sponsor') ? 'md:text-red-600' : '' }}">Sponsoring</a>
                     </li>
                     <li>
-                        <a href="/events" class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-600 {{ request()->routeIs('events') ? 'md:text-red-600' : '' }}">Evenementen</a>
+                        <a href="/media" class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-600 {{ request()->routeIs('media') ? 'md:text-red-600' : '' }}">Media</a>
                     </li>
                     <li>
                         <a href="/contact" class="block py-2 px-3 md:p-0 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-red-600 {{ request()->routeIs('contact') ? 'md:text-red-600' : '' }}">Contact</a>

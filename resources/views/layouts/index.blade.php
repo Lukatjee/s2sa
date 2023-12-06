@@ -24,7 +24,19 @@
         <p>Ook in 2025 ondersteunt Start 2 Sport Again de sportieve ambitie van een uitzonderlijk veerkrachtige persoon
             met een fysieke uitdaging, Stijn Lecleir. Als geoefende handbiker wil hij een unieke uitdaging aangaan en de
             Ronde van Vlaanderen fietsen met de handbike.</p>
+        <img src="images/stijn1.jpeg" alt="Stijn" class="m-auto">
         <p class="font-bold text-center">Met de ingezamelde fondsen zal S2SA een nieuwe handbike voor Stijn aankopen</p>
     </article>
+    <div class="pt-16">
+        <h2 class="mb-4 lg:mb-8 text-3xl font-extrabold tracking-tight leading-tight text-center text-gray-900 md:text-4xl">Meter en Peter</h2>
+        <p class="mb-4 lg:mb-8 mx-auto my-6 text-center text-gray-500">Om het initiatief kracht bij te zetten, zocht Johan een meter en peter voor S2SA. Al snel kwam hij terecht
+            bij Aartselaarse schepenen Hilde Heyman en Bart Lambrecht. “Op de Lentedrink van de gemeente leerden we
+            Johan en zijn verhaal kennen. We waren eerst verbaasd van zijn moed, maar zagen het meteen zitten om mee te
+            werken”</p>
+        <div class="grid md:grid-cols-2 gap-2 mx-auto">
+            <img class="mx-auto" src="images/hilde.jpg" alt="Image Hilde">
+            <img class="mx-auto" src="images/bart.jpg" alt="Image Bart">
+        </div>
+    </div>
 
 </x-container>

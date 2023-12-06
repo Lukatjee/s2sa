@@ -23,7 +23,8 @@
             <div class="grid grid-cols-1 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 mb-4 lg:mb-8">
                 <x-partners.link href="https://wolffaertshof.be/"><img src="/images/Logo_Wolffaertshof.PNG" class="w-64"
                                                                        alt="Wolffaertshof"></x-partners.link>
-                <x-partners.link href="https://www.go4jobs.be/"><img src="/images/go4jobs.png" alt="Go4Jobs" class="w-64">
+                <x-partners.link href="https://www.go4jobs.be/"><img src="/images/go4jobs.png" alt="Go4Jobs"
+                                                                     class="w-64">
                 </x-partners.link>
                 <x-partners.link href="https://www.ovh-orthopedie.be/"><img src="/images/ovh-orthopedie.jpg"
                                                                             class="w-64" alt="OVH">
@@ -33,7 +34,8 @@
 
             <div class="sm:hidden">
                 <label for="tabs" class="sr-only">Selecteer een type</label>
-                <select id="tabs" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2.5">
+                <select id="tabs"
+                        class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2.5">
                     <option value="#platinum">Platinum</option>
                     <option value="#diamond">Diamond</option>
                     <option value="#golden">Golden</option>
@@ -41,48 +43,75 @@
                     <option value="#bronze">Bronze</option>
                 </select>
             </div>
-            <ul class="hidden text-sm font-medium text-center text-gray-500 divide-x divide-gray-200 rounded-lg shadow sm:flex" id="myTab" data-tabs-toggle="#tabContents" role="tablist">
+            <ul class="hidden text-sm font-medium text-center text-gray-500 divide-x divide-gray-200 rounded-lg shadow sm:flex"
+                id="myTab" data-tabs-toggle="#tabContents" role="tablist">
                 <li class="w-full" role="presentation">
-                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-gray-700" id="platinum-tab" data-tabs-target="#platinum" type="button" role="tab" aria-controls="platinum">Platinum</button>
+                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-gray-700" id="platinum-tab"
+                            data-tabs-target="#platinum" type="button" role="tab" aria-controls="platinum">Platinum
+                    </button>
                 </li>
                 <li class="w-full" role="presentation">
-                    <button class="inline-block w-full p-4 rounded-l-lg" id="diamond-tab" data-tabs-target="#diamond" type="button" role="tab" aria-controls="diamond">Diamond</button>
+                    <button class="inline-block w-full p-4 rounded-l-lg" id="diamond-tab" data-tabs-target="#diamond"
+                            type="button" role="tab" aria-controls="diamond">Diamond
+                    </button>
                 </li>
                 <li class="w-full" role="presentation">
-                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-yellow-300" id="golden-tab" data-tabs-target="#golden" type="button" role="tab" aria-controls="golden">Golden</button>
+                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-yellow-300" id="golden-tab"
+                            data-tabs-target="#golden" type="button" role="tab" aria-controls="golden">Golden
+                    </button>
                 </li>
                 <li class="w-full" role="presentation">
-                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-gray-600" id="silver-tab" data-tabs-target="#silver" type="button" role="tab" aria-controls="silver">Silver</button>
+                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-gray-600" id="silver-tab"
+                            data-tabs-target="#silver" type="button" role="tab" aria-controls="silver">Silver
+                    </button>
                 </li>
                 <li class="w-full" role="presentation">
-                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-yellow-500" id="bronze-tab" data-tabs-target="#bronze" type="button" role="tab" aria-controls="bronze">Bronze</button>
+                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-yellow-500" id="bronze-tab"
+                            data-tabs-target="#bronze" type="button" role="tab" aria-controls="bronze">Bronze
+                    </button>
                 </li>
             </ul>
             <div id="tabContents">
                 <div class="hidden p-4 rounded-lg" id="platinum" role="tabpanel" aria-labelledby="platinum-tab">
-                    <p class="text-center">Er zijn nog geen <span class="font-bold text-gray-700">Platinum</span> sponsors.</p>
-                </div>
-                <div class="hidden p-4 rounded-lg dark:bg-gray-800" id="diamond" role="tabpanel" aria-labelledby="diamond-tab">
+                    {{--                    <p class="text-center">Er zijn nog geen <span class="font-bold text-gray-700">Platinum</span> sponsors.</p>--}}
                     <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
-                        <x-partners.link href="https://www.rijwielen-vandenplas.be/nl"><img src="/images/vandenplas.png" alt="Van den plas">
+                        <x-partners.link href="https://www.zomaaraartselaar.be/"><img
+                                src="/images/ZMLogo_Zwart_trans.png" alt="ZoMaar">
                         </x-partners.link>
-                        <x-partners.link href="https://www.atmospher.be/"><img src="/images/atmospher.webp" alt="Atmospher">
+                        {{--                        <x-partners.link href="https://packofwolvesbelgium.be/"><img src="/images/POW.png" alt="Pack of Wolves">--}}
+                        {{--                        </x-partners.link>--}}
+                    </div>
+                </div>
+                <div class="hidden p-4 rounded-lg dark:bg-gray-800" id="diamond" role="tabpanel"
+                     aria-labelledby="diamond-tab">
+                    <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
+                        <x-partners.link href="https://www.rijwielen-vandenplas.be/nl"><img src="/images/vandenplas.png"
+                                                                                            alt="Van den plas">
                         </x-partners.link>
-                        <x-partners.link href="https://kokerij.be/"><img src="/images/kokerij.png" alt=""></x-partners.link>
-                        <x-partners.link href="https://www.stannah.com/nl-be/"><img src="/images/stannah.jpg" alt="Stannah">
+                        <x-partners.link href="https://www.atmospher.be/"><img src="/images/atmospher.webp"
+                                                                               alt="Atmospher">
                         </x-partners.link>
-                        <x-partners.link href="https://dantha-photography.be/"><img src="/images/dantha.png" alt="Dantha">
+                        <x-partners.link href="https://kokerij.be/"><img src="/images/kokerij.png" alt="">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.stannah.com/nl-be/"><img src="/images/stannah.jpg"
+                                                                                    alt="Stannah">
+                        </x-partners.link>
+                        <x-partners.link href="https://dantha-photography.be/"><img src="/images/dantha.png"
+                                                                                    alt="Dantha">
                         </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="golden" role="tabpanel" aria-labelledby="golden-tab">
-                    <p class="text-center">Er zijn nog geen <span class="font-bold text-yellow-300">Golden</span> sponsors.</p>
+                    <p class="text-center">Er zijn nog geen <span class="font-bold text-yellow-300">Golden</span>
+                        sponsors.</p>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="silver" role="tabpanel" aria-labelledby="silver-tab">
-                    <p class="text-center">Er zijn nog geen <span class="font-bold text-gray-600">Silver</span> sponsors.</p>
+                    <p class="text-center">Er zijn nog geen <span class="font-bold text-gray-600">Silver</span>
+                        sponsors.</p>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="bronze" role="tabpanel" aria-labelledby="bronze-tab">
-                    <p class="text-center">Er zijn nog geen <span class="font-bold text-yellow-500">Bronze</span> sponsors.</p>
+                    <p class="text-center">Er zijn nog geen <span class="font-bold text-yellow-500">Bronze</span>
+                        sponsors.</p>
                 </div>
             </div>
 

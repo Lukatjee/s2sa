@@ -55,6 +55,7 @@
             gelukkig te leven.
 
         </p>
+        <img src="images/stijn1.jpeg" alt="Stijn">
         <h2>Stijn Lecleir</h2>
         <p>Stijn "Popeye" Lecleir (41) is geboren met arthrogryposis (AMC), een aandoening aan de spieren en gewrichten
             die zorgen voor een standafwijking en bewegingsbeperking. Bij Stijn zijn de spieren in de onderste ledematen
@@ -80,6 +81,10 @@
             Van Haesendonck waar hij orthopedische schoenen maakt en herstelt. Het zijn vooral de variatie en de leuke
             collega's die ervoor zorgen dat Stijn zijn job elke dag met de glimlach doet.
         </p>
+        <div class="flex flex-col sm:flex-row gap-1 items-center">
+            <img src="images/stijn2.jpeg" alt="Stijn Handbike" class="max-w-xs">
+            <img src="images/stijn3.jpeg" alt="Stijn Handbike" class="max-w-xs">
+        </div>
     </article>
 
 </x-container>

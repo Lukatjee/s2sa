@@ -78,8 +78,6 @@
                         <x-partners.link href="https://www.zomaaraartselaar.be/"><img
                                 src="/images/ZMLogo_Zwart_trans.png" alt="ZoMaar">
                         </x-partners.link>
-                        {{--                        <x-partners.link href="https://packofwolvesbelgium.be/"><img src="/images/POW.png" alt="Pack of Wolves">--}}
-                        {{--                        </x-partners.link>--}}
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg dark:bg-gray-800" id="diamond" role="tabpanel"
@@ -98,6 +96,9 @@
                         </x-partners.link>
                         <x-partners.link href="https://dantha-photography.be/"><img src="/images/dantha.png"
                                                                                     alt="Dantha">
+                        </x-partners.link>
+                        <x-partners.link href="https://packofwolvesbelgium.be/"><img src="/images/POW.png"
+                                                                                     alt="Pack of Wolves">
                         </x-partners.link>
                     </div>
                 </div>

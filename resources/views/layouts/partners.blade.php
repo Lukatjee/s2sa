@@ -83,9 +83,6 @@
                 <div class="hidden p-4 rounded-lg dark:bg-gray-800" id="diamond" role="tabpanel"
                      aria-labelledby="diamond-tab">
                     <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
-                        <x-partners.link href="https://www.rijwielen-vandenplas.be/nl"><img src="/images/vandenplas.png"
-                                                                                            alt="Van den plas">
-                        </x-partners.link>
                         <x-partners.link href="https://www.atmospher.be/"><img src="/images/atmospher.webp"
                                                                                alt="Atmospher">
                         </x-partners.link>
@@ -103,8 +100,11 @@
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="golden" role="tabpanel" aria-labelledby="golden-tab">
-                    <p class="text-center">Er zijn nog geen <span class="font-bold text-yellow-300">Golden</span>
-                        sponsors.</p>
+                    <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
+                        <x-partners.link href="https://www.rijwielen-vandenplas.be/nl"><img src="/images/vandenplas.png"
+                                                                                            alt="Van den plas">
+                        </x-partners.link>
+                    </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="silver" role="tabpanel" aria-labelledby="silver-tab">
                     <p class="text-center">Er zijn nog geen <span class="font-bold text-gray-600">Silver</span>

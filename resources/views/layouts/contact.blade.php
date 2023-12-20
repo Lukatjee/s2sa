@@ -79,7 +79,7 @@
                             <div class="mt-2.5">
                                 <input type="email" name="email" id="email" autocomplete="email"
                                        class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-600 sm:text-sm sm:leading-6"
-                                       disabled>
+                                       >
                             </div>
                         </div>
                         <div class="sm:col-span-2">
@@ -87,7 +87,7 @@
                             <div class="mt-2.5">
                                 <input type="text" name="onderwerp" id="onderwerp"
                                        class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-600 sm:text-sm sm:leading-6"
-                                       disabled>
+                                       >
                             </div>
                         </div>
                         <div class="sm:col-span-2">
@@ -96,18 +96,18 @@
                             <div class="mt-2.5">
                                 <textarea name="bericht" id="bericht" rows="4"
                                           class="block w-full rounded-md border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-red-600 sm:text-sm sm:leading-6"
-                                          disabled></textarea>
+                                          ></textarea>
                             </div>
                         </div>
                     </div>
-                    {{--                    <div class="mt-8 flex justify-end">--}}
-                    {{--                        <button type="submit"--}}
-                    {{--                                data-sitekey="6Ldd6OQnAAAAAFSgP7OGRjXjPdptU51Z7gp7IaAx"--}}
-                    {{--                                data-callback='onSubmit'--}}
-                    {{--                                class="g-recaptcha rounded-md bg-red-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600">--}}
-                    {{--                            Contacteer Ons--}}
-                    {{--                        </button>--}}
-                    {{--                    </div>--}}
+                                        <div class="mt-8 flex justify-end">
+                                            <button type="submit"
+                                                    data-sitekey="6Ldd6OQnAAAAAFSgP7OGRjXjPdptU51Z7gp7IaAx"
+                                                    data-callback='onSubmit'
+                                                    class="g-recaptcha rounded-md bg-red-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600">
+                                                Contacteer Ons
+                                            </button>
+                                        </div>
                     @if (session('error'))
                         <div class="alert alert-danger">
                             <p>{{ session('error') }}</p>

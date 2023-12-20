@@ -100,14 +100,14 @@
                             </div>
                         </div>
                     </div>
-                                        <div class="mt-8 flex justify-end">
-                                            <button type="submit"
-                                                    data-sitekey="6Ldd6OQnAAAAAFSgP7OGRjXjPdptU51Z7gp7IaAx"
-                                                    data-callback='onSubmit'
-                                                    class="g-recaptcha rounded-md bg-red-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600">
-                                                Contacteer Ons
-                                            </button>
-                                        </div>
+{{--                                        <div class="mt-8 flex justify-end">--}}
+{{--                                            <button type="submit"--}}
+{{--                                                    data-sitekey="6Ldd6OQnAAAAAFSgP7OGRjXjPdptU51Z7gp7IaAx"--}}
+{{--                                                    data-callback='onSubmit'--}}
+{{--                                                    class="g-recaptcha rounded-md bg-red-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600">--}}
+{{--                                                Contacteer Ons--}}
+{{--                                            </button>--}}
+{{--                                        </div>--}}
                     @if (session('error'))
                         <div class="alert alert-danger">
                             <p>{{ session('error') }}</p>

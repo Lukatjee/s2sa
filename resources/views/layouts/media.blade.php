@@ -66,5 +66,16 @@
                           img="images/stijn2.jpeg">
             Ondersteuning project 2024 handbike voor Stijn
         </x-media.activity>
+        <x-media.activity title="Aangepaste noden vragen voor een aangepaste fiets" date="18 december 2023"
+                          link="https://rupelaarwilrijk.aansteker.media/aangepaste-noden-vragen-voor-een-aangepaste-fiets/"
+                          type="Pers"
+                          profile="images/aansteker.png"
+                          name="Aansteker"
+                          article="https://rupelaarwilrijk.aansteker.media/"
+                          img="images/johan-aangepast-noden.jpg">
+            Om zijn uitdaging aan te gaan heeft Johan, naast een sportprothese, ook een aangepaste fiets nodig. Wat nog
+            maar eens aantoont wat er allemaal bij komt kijken indien je wil sporten met een fysieke beperking. Waarom
+            die aanpassingen nodig zijn en hoe zijn fiets daaraan voldoet, laten we hem graag zelf uitleggen.
+        </x-media.activity>
     </div>
 </x-container>

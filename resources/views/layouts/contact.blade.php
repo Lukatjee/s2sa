@@ -18,8 +18,8 @@
             <div class="relative px-6 pb-20 lg:static lg:px-8">
                 <div class="mx-auto max-w-xl lg:mx-0 lg:max-w-lg">
                     <h2 class="text-3xl font-bold tracking-tight text-gray-900">Contact</h2>
-                    <p class="mt-6 text-lg leading-8 text-gray-600 font-bold">Momenteel is ons contactformulier buiten gebruik, gelieve ons te contacteren op
-                        info@start2sportagain.be</p>
+{{--                    <p class="mt-6 text-lg leading-8 text-gray-600 font-bold">Momenteel is ons contactformulier buiten gebruik, gelieve ons te contacteren op--}}
+{{--                        info@start2sportagain.be</p>--}}
                     <p class="mt-6 text-lg leading-8 text-gray-600">Wij staan klaar om je vragen te beantwoorden en je
                         te helpen bij alles wat je nodig hebt! Aarzel niet om contact met ons op te nemen. Samen zetten
                         we ons in voor een actief en gezond leven voor iedereen.</p>

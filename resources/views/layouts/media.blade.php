@@ -66,6 +66,18 @@
                           img="images/stijn2.jpeg">
             Ondersteuning project 2024 handbike voor Stijn
         </x-media.activity>
+        <x-media.activity title="Toneelvoorstelling door ZoMaar van het stuk 'Onze Pa heeft een ander' met uitreiking cheque ten voordele S2SA" date="10 december 2023"
+                          link="https://www.facebook.com/zomaaraartselaar/posts/pfbid0gqqhHfCQCknz7GNWyB6uHTWpFCwZmoqLyrvNggNbBfAptvjfHzxfScN6Pc3h1Rx3l"
+                          type="Evenementen"
+                          profile="images/ZMLogo_Zwart_trans.png"
+                          name="ZoMaar Aartselaar"
+                          article="https://www.facebook.com/zomaaraartselaar"
+                          img="images/zomaar_banner.jpg">
+            We hebben er weer een fantastisch toneelweekend op zitten. Dankzij de mooie opkomst van ons trouwe publiek
+            hebben we maar liefst 2 goede doelen financieel kunnen ondersteunen. Zowel 'Start2SportAgain' als de
+            'Valkenisse Hoeve' hebben we een cheque van 2000 euro kunnen overhandigen. Dat allemaal dankzij de hele
+            ZoMaar-familie, onze medewerkers, alle sponsors en uiteraard jullie: ons geweldig publiek.
+        </x-media.activity>
         <x-media.activity title="Aangepaste noden vragen voor een aangepaste fiets" date="18 december 2023"
                           link="https://rupelaarwilrijk.aansteker.media/aangepaste-noden-vragen-voor-een-aangepaste-fiets/"
                           type="Pers"

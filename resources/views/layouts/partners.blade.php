@@ -41,6 +41,7 @@
                     <option value="#golden">Golden</option>
                     <option value="#silver">Silver</option>
                     <option value="#bronze">Bronze</option>
+                    <option value="#koper">Koper</option>
                 </select>
             </div>
             <ul class="hidden text-sm font-medium text-center text-gray-500 divide-x divide-gray-200 rounded-lg shadow sm:flex"
@@ -70,6 +71,11 @@
                             data-tabs-target="#bronze" type="button" role="tab" aria-controls="bronze">Bronze
                     </button>
                 </li>
+                <li class="w-full" role="presentation">
+                    <button class="inline-block w-full p-4 rounded-l-lg aria-selected:text-yellow-400" id="koper-tab"
+                            data-tabs-target="#koper" type="button" role="tab" aria-controls="koper">Koper
+                    </button>
+                </li>
             </ul>
             <div id="tabContents">
                 <div class="hidden p-4 rounded-lg" id="platinum" role="tabpanel" aria-labelledby="platinum-tab">
@@ -80,8 +86,7 @@
                         </x-partners.link>
                     </div>
                 </div>
-                <div class="hidden p-4 rounded-lg dark:bg-gray-800" id="diamond" role="tabpanel"
-                     aria-labelledby="diamond-tab">
+                <div class="hidden p-4 rounded-lg" id="diamond" role="tabpanel" aria-labelledby="diamond-tab">
                     <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
                         <x-partners.link href="https://www.atmospher.be/"><img src="/images/atmospher.webp"
                                                                                alt="Atmospher">
@@ -97,6 +102,17 @@
                         <x-partners.link href="https://packofwolvesbelgium.be/"><img src="/images/POW.png"
                                                                                      alt="Pack of Wolves">
                         </x-partners.link>
+                        <x-partners.link href="https://www.vanreethvastgoed.be/"><img
+                                src="/images/logo_van_reeth_vastgoed.png"
+                                alt="Van Reeth Vastgoed">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.vastgoeddesmet.be/"><img
+                                src="/images/Logo Vastgoed De Smet.jpeg"
+                                alt="Vastgoed De Smet">
+                        </x-partners.link><x-partners.link href="https://sbkschrijnwerkerij.be/"><img
+                                src="/images/SBK.jpg"
+                                alt="SBK Schrijnwerkerij">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="golden" role="tabpanel" aria-labelledby="golden-tab">
@@ -104,18 +120,54 @@
                         <x-partners.link href="https://www.rijwielen-vandenplas.be/nl"><img src="/images/vandenplas.png"
                                                                                             alt="Van den plas">
                         </x-partners.link>
+                        <x-partners.link href="https://www.acbairco.be/nl"><img src="/images/acbairco.png"
+                                                                                alt="ACB Airco">
+                        </x-partners.link>
+                        <x-partners.link href="http://kaitravel.be"><img src="/images/kaitravel.jpg"
+                                                                                alt="Kai Travel">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="silver" role="tabpanel" aria-labelledby="silver-tab">
-                    <p class="text-center">Er zijn nog geen <span class="font-bold text-gray-600">Silver</span>
-                        sponsors.</p>
+                    <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
+                        <x-partners.link href="https://www.facebook.com/denhoekreet/"><img
+                                src="/images/Belle%20vue.jpg"
+                                alt="Belle-Vue">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.facebook.com/entrez/"><img
+                                src="/images/Entrez.jpg"
+                                alt="Entrez">
+                        </x-partners.link>
+                    </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="bronze" role="tabpanel" aria-labelledby="bronze-tab">
-                    <p class="text-center">Er zijn nog geen <span class="font-bold text-yellow-500">Bronze</span>
-                        sponsors.</p>
+                    <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
+
+                        <x-partners.link href="https://veravanderheyden.be/"><img
+                                src="/images/NAAMKAART%20VERA%20RECTO.jpg"
+                                alt="Vera Vanderheyden">
+                        </x-partners.link>
+                    </div>
+                </div>
+                <div class="hidden p-4 rounded-lg" id="koper" role="tabpanel" aria-labelledby="koper-tab">
+                    {{--                    <p class="text-center">Er zijn nog geen <span class="font-bold text-yellow-400">Koperen</span>--}}
+                    {{--                        sponsors.</p>--}}
+                    <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
+
+                        <x-partners.link href="https://www.facebook.com/acuslederwaren"><img src="/images/acus.webp"
+                                                                                             alt="Acus">
+                        </x-partners.link>
+                        <x-partners.link href="https://boetiekfashion.be/"><img
+                                src="/images/thumbnail_Boetiek-Fashion-logo.png"
+                                alt="Boetiek Fashion">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.beemine.be/"><img
+                                src="/images/beemine.jpg"
+                                alt="Bee Mine">
+                        </x-partners.link>
+                    </div>
                 </div>
             </div>
-
         </div>
 
     </section>

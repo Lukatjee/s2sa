@@ -109,9 +109,14 @@
                         <x-partners.link href="https://www.vastgoeddesmet.be/"><img
                                 src="/images/Logo Vastgoed De Smet.jpeg"
                                 alt="Vastgoed De Smet">
-                        </x-partners.link><x-partners.link href="https://sbkschrijnwerkerij.be/"><img
+                        </x-partners.link>
+                        <x-partners.link href="https://sbkschrijnwerkerij.be/"><img
                                 src="/images/SBK.jpg"
                                 alt="SBK Schrijnwerkerij">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.inconel-consulting.be/"><img
+                                src="/images/Inconel.jpg"
+                                alt="Inconel">
                         </x-partners.link>
                     </div>
                 </div>
@@ -124,7 +129,14 @@
                                                                                 alt="ACB Airco">
                         </x-partners.link>
                         <x-partners.link href="http://kaitravel.be"><img src="/images/kaitravel.jpg"
-                                                                                alt="Kai Travel">
+                                                                         alt="Kai Travel">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.facebook.com/profile.php?id=100063763323269"><img
+                                src="/images/image00003.png"
+                                alt="Bo Doms">
+                        </x-partners.link>
+                        <x-partners.link href="#"><img src="/images/blondeel.png"
+                                                       alt="Brigitte Blondeel">
                         </x-partners.link>
                     </div>
                 </div>
@@ -147,6 +159,14 @@
                                 src="/images/NAAMKAART%20VERA%20RECTO.jpg"
                                 alt="Vera Vanderheyden">
                         </x-partners.link>
+                        <x-partners.link href="https://www.resa-vastgoed.be/nl/"><img
+                                src="/images/resa.png"
+                                alt="Resa">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.ventstore.be/"><img
+                                src="/images/Vent.png"
+                                alt="Vent">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="koper" role="tabpanel" aria-labelledby="koper-tab">
@@ -164,6 +184,22 @@
                         <x-partners.link href="https://www.beemine.be/"><img
                                 src="/images/beemine.jpg"
                                 alt="Bee Mine">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.gamaco.com/nl"><img
+                                src="/images/gamaco.jpg"
+                                alt="Gamaco">
+                        </x-partners.link>
+                        <x-partners.link href="https://kolum.be/"><img
+                                src="/images/kolum.png"
+                                alt="Kolum">
+                        </x-partners.link>
+                        <x-partners.link href="https://snoepeiland.be/"><img
+                                src="/images/Snoepeiland.png"
+                                alt="Snoepeiland">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.apotheekjulieborghijs.be/"><img
+                                src="/images/visitekaartje%20afbeelding.png"
+                                alt="Apotheek Julie Borghijs">
                         </x-partners.link>
                     </div>
                 </div>

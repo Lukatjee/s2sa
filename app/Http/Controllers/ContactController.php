@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Mail\ContactMail;
-use Faker\Provider\Address;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use ReCaptcha\ReCaptcha;

@@ -131,7 +131,7 @@
                         <x-partners.link href="https://www.acbairco.be/nl"><img src="/images/acbairco.png"
                                                                                 alt="ACB Airco">
                         </x-partners.link>
-                        <x-partners.link href="http://kaitravel.be"><img src="/images/kaitravel.jpg"
+                        <x-partners.link href="https://kaitravel.be"><img src="/images/kaitravel.jpg"
                                                                          alt="Kai Travel">
                         </x-partners.link>
                         <x-partners.link href="https://www.facebook.com/profile.php?id=100063763323269"><img
@@ -185,8 +185,6 @@
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="koper" role="tabpanel" aria-labelledby="koper-tab">
-                    {{--                    <p class="text-center">Er zijn nog geen <span class="font-bold text-yellow-400">Koperen</span>--}}
-                    {{--                        sponsors.</p>--}}
                     <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 pt-12">
 
                         <x-partners.link href="https://www.facebook.com/acuslederwaren"><img src="/images/acus.webp"

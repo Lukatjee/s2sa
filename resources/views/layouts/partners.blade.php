@@ -84,6 +84,9 @@
                         <x-partners.link href="https://www.zomaaraartselaar.be/"><img
                                 src="/images/ZMLogo_Zwart_trans.png" alt="ZoMaar">
                         </x-partners.link>
+                        <x-partners.link href="https://cornelisjanssens.be/"><img
+                                src="/images/cornelis.png" alt="Cornelis">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="diamond" role="tabpanel" aria-labelledby="diamond-tab">
@@ -114,9 +117,9 @@
                                 src="/images/SBK.jpg"
                                 alt="SBK Schrijnwerkerij">
                         </x-partners.link>
-                        <x-partners.link href="https://www.inconel-consulting.be/"><img
-                                src="/images/Inconel.jpg"
-                                alt="Inconel">
+                        <x-partners.link href="https://www.artore.be/"><img
+                                src="/images/artore.png"
+                                alt="Artore">
                         </x-partners.link>
                     </div>
                 </div>
@@ -138,6 +141,10 @@
                         <x-partners.link href="#"><img src="/images/blondeel.png"
                                                        alt="Brigitte Blondeel">
                         </x-partners.link>
+                        <x-partners.link href="https://www.inconel-consulting.be/"><img
+                                src="/images/Inconel.jpg"
+                                alt="Inconel">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="silver" role="tabpanel" aria-labelledby="silver-tab">
@@ -149,6 +156,10 @@
                         <x-partners.link href="https://www.facebook.com/entrez/"><img
                                 src="/images/Entrez.jpg"
                                 alt="Entrez">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.adaartselaar.com/"><img
+                                src="/images/ad_delhaize.JPG"
+                                alt="AD Delhaize Aartselaar">
                         </x-partners.link>
                     </div>
                 </div>
@@ -166,6 +177,10 @@
                         <x-partners.link href="https://www.ventstore.be/"><img
                                 src="/images/Vent.png"
                                 alt="Vent">
+                        </x-partners.link>
+                        <x-partners.link href="https://vinosanti.be/"><img
+                                src="/images/vinosanti.png"
+                                alt="Vino Santi">
                         </x-partners.link>
                     </div>
                 </div>
@@ -200,6 +215,14 @@
                         <x-partners.link href="https://www.apotheekjulieborghijs.be/"><img
                                 src="/images/visitekaartje%20afbeelding.png"
                                 alt="Apotheek Julie Borghijs">
+                        </x-partners.link>
+                        <x-partners.link href="https://pastine.store/"><img
+                                src="/images/pastine.png"
+                                alt="Pastine">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.sereni.be/vestigingen/lenchant/"><img
+                                src="/images/lenchant.png"
+                                alt="Lenchant">
                         </x-partners.link>
                     </div>
                 </div>

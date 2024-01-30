@@ -66,13 +66,15 @@
                           img="images/stijn2.jpeg">
             Ondersteuning project 2024 handbike voor Stijn
         </x-media.activity>
-        <x-media.activity title="Toneelvoorstelling door ZoMaar van het stuk 'Onze Pa heeft een ander' met uitreiking cheque ten voordele S2SA" date="10 december 2023"
-                          link="https://www.facebook.com/zomaaraartselaar/posts/pfbid0gqqhHfCQCknz7GNWyB6uHTWpFCwZmoqLyrvNggNbBfAptvjfHzxfScN6Pc3h1Rx3l"
-                          type="Evenementen"
-                          profile="images/ZMLogo_Zwart_trans.png"
-                          name="ZoMaar Aartselaar"
-                          article="https://www.facebook.com/zomaaraartselaar"
-                          img="images/zomaar_banner.jpg">
+        <x-media.activity
+            title="Toneelvoorstelling door ZoMaar van het stuk 'Onze Pa heeft een ander' met uitreiking cheque ten voordele S2SA"
+            date="10 december 2023"
+            link="https://www.facebook.com/zomaaraartselaar/posts/pfbid0gqqhHfCQCknz7GNWyB6uHTWpFCwZmoqLyrvNggNbBfAptvjfHzxfScN6Pc3h1Rx3l"
+            type="Evenementen"
+            profile="images/ZMLogo_Zwart_trans.png"
+            name="ZoMaar Aartselaar"
+            article="https://www.facebook.com/zomaaraartselaar"
+            img="images/zomaar_banner.jpg">
             We hebben er weer een fantastisch toneelweekend op zitten. Dankzij de mooie opkomst van ons trouwe publiek
             hebben we maar liefst 2 goede doelen financieel kunnen ondersteunen. Zowel 'Start2SportAgain' als de
             'Valkenisse Hoeve' hebben we een cheque van 2000 euro kunnen overhandigen. Dat allemaal dankzij de hele
@@ -88,6 +90,27 @@
             Om zijn uitdaging aan te gaan heeft Johan, naast een sportprothese, ook een aangepaste fiets nodig. Wat nog
             maar eens aantoont wat er allemaal bij komt kijken indien je wil sporten met een fysieke beperking. Waarom
             die aanpassingen nodig zijn en hoe zijn fiets daaraan voldoet, laten we hem graag zelf uitleggen.
+        </x-media.activity>
+        <x-media.activity title="Het sportdieet van Johan De Groof ter voorbereiding van de Mont Ventoux"
+                          date="19 december 2023"
+                          link="https://rupelaarwilrijk.aansteker.media/het-sportdieet-van-johan-de-groof-ter-voorbereiding-van-de-mont-ventoux/"
+                          type="Pers"
+                          profile="images/aansteker.png"
+                          name="Aansteker"
+                          article="https://rupelaarwilrijk.aansteker.media/"
+                          img="images/johan_artikel1.jpeg">
+            Wie wil winnen, moet eten als een winnaar! Alle topsporters zullen dat beamen. En wielrenners die zich
+            voorbereiden voor een grote beklimming nog eens te meer. Er moet een balans zijn tussen voldoende spiermassa
+            en geen overtollige kilo’s die mee de berg op moeten.
+        </x-media.activity>
+        <x-media.activity title="Pack of Wolves Belgium: goede doel rit ten voordele S2SA"
+                          date="25 mei 2024"
+                          link="https://www.packofwolvesbelgium.be/"
+                          type="Evenementen"
+                          profile="images/POW.png"
+                          name="Pack of Wolves Belgium"
+                          article="https://www.packofwolvesbelgium.be/"
+                          img="images/flyer-goede-doelrit.jpg">
         </x-media.activity>
     </div>
 </x-container>

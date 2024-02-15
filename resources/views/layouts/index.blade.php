@@ -18,7 +18,7 @@
 
         <h2>Initiatief 2024</h2>
         <p>Johan De Groof, de stichter van S2SA, wiens één been geamputeerd is, gaat de uitdaging aan om tijdens een
-            evenement dat we in de zomer van 2024 organiseren, met behulp van Strava de Mont Ventoux te beklimmen.</p>
+            evenement dat we op 25 mei 2024 organiseren, met behulp van Strava de Mont Ventoux te beklimmen.</p>
         <img class="m-auto" src="images/johan2.jpg" alt="Image Johan">
         <h2>Project 2024 - 2025</h2>
         <p>Ook in 2025 ondersteunt Start 2 Sport Again de sportieve ambitie van een uitzonderlijk veerkrachtige persoon

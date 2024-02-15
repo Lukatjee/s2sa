@@ -1,3 +1,4 @@
+
 <x-container>
 
     <section class="bg-white">
@@ -145,6 +146,10 @@
                                 src="/images/Inconel.jpg"
                                 alt="Inconel">
                         </x-partners.link>
+                        <x-partners.link href="https://www.bloemenbeukeleers.com/"><img
+                                src="/images/beukeleers.jpg"
+                                alt="Bloemen Beukeleers Kristel BV">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="silver" role="tabpanel" aria-labelledby="silver-tab">
@@ -221,6 +226,10 @@
                         <x-partners.link href="https://www.sereni.be/vestigingen/lenchant/"><img
                                 src="/images/lenchant.png"
                                 alt="Lenchant">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.huisinzicht.be/nl/"><img
+                                src="/images/huis_in_zicht.png"
+                                alt="Huis In Zicht BV">
                         </x-partners.link>
                     </div>
                 </div>

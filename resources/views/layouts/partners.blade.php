@@ -166,6 +166,10 @@
                                 src="/images/ad_delhaize.JPG"
                                 alt="AD Delhaize Aartselaar">
                         </x-partners.link>
+                        <x-partners.link href="https://winkels.carrefour.be/nl/s/carrefour/carrefour-market-aartselaar/86"><img
+                                src="/images/Carrefour.jpg"
+                                alt="Avanti BV">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="bronze" role="tabpanel" aria-labelledby="bronze-tab">
@@ -230,6 +234,10 @@
                         <x-partners.link href="https://www.huisinzicht.be/nl/"><img
                                 src="/images/huis_in_zicht.png"
                                 alt="Huis In Zicht BV">
+                        </x-partners.link>
+                        <x-partners.link href="https://aartselaar.leonidas.com/"><img
+                                src="/images/leonidas_aartselaar.jpg"
+                                alt="Van Goethem Nele">
                         </x-partners.link>
                     </div>
                 </div>

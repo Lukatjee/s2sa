@@ -21,7 +21,7 @@
             <p class="mb-4 lg:mb-8 mx-auto my-6 text-center text-2xl underline underline-offset-8 decoration-red-700 decoration-auto font-extrabold">
                 Exclusive</p>
 
-            <div class="grid grid-cols-1 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 mb-4 lg:mb-8">
+            <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-4 mb-4 lg:mb-8">
                 <x-partners.link href="https://wolffaertshof.be/"><img src="/images/Logo_Wolffaertshof.PNG" class="w-64"
                                                                        alt="Wolffaertshof"></x-partners.link>
                 <x-partners.link href="https://www.go4jobs.be/"><img src="/images/go4jobs.png" alt="Go4Jobs"
@@ -29,6 +29,9 @@
                 </x-partners.link>
                 <x-partners.link href="https://www.ovh-orthopedie.be/"><img src="/images/ovh-orthopedie.jpg"
                                                                             class="w-64" alt="OVH">
+                </x-partners.link>
+                <x-partners.link href="https://www.movealltheway.be/"><img src="/images/move_all_the_way.jpg"
+                                                                            class="w-64" alt="Move All The Way">
                 </x-partners.link>
             </div>
 
@@ -150,6 +153,10 @@
                                 src="/images/beukeleers.jpg"
                                 alt="Bloemen Beukeleers Kristel BV">
                         </x-partners.link>
+                        <x-partners.link href="https://kunstgrascenter.be/"><img
+                                src="/images/kunstgrascenter.jpg"
+                                alt="KunstgrasCenter">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="silver" role="tabpanel" aria-labelledby="silver-tab">
@@ -188,7 +195,7 @@
                                 alt="Vent">
                         </x-partners.link>
                         <x-partners.link href="https://vinosanti.be/"><img
-                                src="/images/vinosanti.png"
+                                src="/images/vino_santi.png"
                                 alt="Vino Santi">
                         </x-partners.link>
                     </div>
@@ -238,6 +245,14 @@
                         <x-partners.link href="https://aartselaar.leonidas.com/"><img
                                 src="/images/leonidas_aartselaar.jpg"
                                 alt="Van Goethem Nele">
+                        </x-partners.link>
+                        <x-partners.link href="https://93lines.be/"><img
+                                src="/images/93_lines.jpg"
+                                alt="93 Lines">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.facebook.com/profile.php?id=100055110833217"><img
+                                src="/images/senles.jpg"
+                                alt="Senles">
                         </x-partners.link>
                     </div>
                 </div>

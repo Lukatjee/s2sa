@@ -254,6 +254,14 @@
                                 src="/images/senles.jpg"
                                 alt="Senles">
                         </x-partners.link>
+                        <x-partners.link href="https://www.keurslagerverhoeven.be/cox.php?p=home-nl"><img
+                                src="/images/Keurslager.jpg"
+                                alt="Keurslager Verhoeven">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.a12rupel.be/"><img
+                                src="/images/beamer.png"
+                                alt="A12 Rupel">
+                        </x-partners.link>
                     </div>
                 </div>
             </div>

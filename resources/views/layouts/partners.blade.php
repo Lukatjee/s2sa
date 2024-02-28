@@ -40,12 +40,12 @@
                 <label for="tabs" class="sr-only">Selecteer een type</label>
                 <select id="tabs"
                         class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-2.5">
-                    <option value="#platinum">Platinum</option>
-                    <option value="#diamond">Diamond</option>
-                    <option value="#golden">Golden</option>
-                    <option value="#silver">Silver</option>
-                    <option value="#bronze">Bronze</option>
-                    <option value="#koper">Koper</option>
+                    <option value="platinum">Platinum</option>
+                    <option value="diamond">Diamond</option>
+                    <option value="golden">Golden</option>
+                    <option value="silver">Silver</option>
+                    <option value="bronze">Bronze</option>
+                    <option value="koper">Koper</option>
                 </select>
             </div>
             <ul class="hidden text-sm font-medium text-center text-gray-500 divide-x divide-gray-200 rounded-lg shadow sm:flex"
@@ -155,6 +155,10 @@
                         </x-partners.link>
                         <x-partners.link href="https://kunstgrascenter.be/"><img
                                 src="/images/kunstgrascenter.jpg"
+                                alt="KunstgrasCenter">
+                        </x-partners.link>
+                        <x-partners.link href="https://kunstgrascenter.be/"><img
+                                src="/images/kbc.png"
                                 alt="KunstgrasCenter">
                         </x-partners.link>
                     </div>
@@ -286,7 +290,7 @@
             });
 
             tabContents.forEach(content => {
-                if (content.id === selectedValue.substring(2)) {
+                if (content.id === selectedValue) {
                     content.classList.remove('hidden');
                 } else {
                     content.classList.add('hidden');

@@ -157,9 +157,9 @@
                                 src="/images/kunstgrascenter.jpg"
                                 alt="KunstgrasCenter">
                         </x-partners.link>
-                        <x-partners.link href="https://kunstgrascenter.be/"><img
+                        <x-partners.link href="https://www.kbc.be/particulieren/nl/kantoor/3706-AARTSELAAR-KAPELLESTRAAT-4.html"><img
                                 src="/images/kbc.png"
-                                alt="KunstgrasCenter">
+                                alt="KBC">
                         </x-partners.link>
                     </div>
                 </div>

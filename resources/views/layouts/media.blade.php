@@ -103,6 +103,20 @@
             voorbereiden voor een grote beklimming nog eens te meer. Er moet een balans zijn tussen voldoende spiermassa
             en geen overtollige kilo’s die mee de berg op moeten.
         </x-media.activity>
+        <x-media.activity title="Personal. coach Sebert begeleidt Johan richting de top"
+                          date="1 maart 2024"
+                          link="https://rupelaarwilrijk.aansteker.media/personal-coach-sebert-begeleidt-johan-richting-de-top/"
+                          type="Pers"
+                          profile="images/aansteker.png"
+                          name="Aansteker"
+                          article="https://rupelaarwilrijk.aansteker.media/"
+                          img="images/personal-coach-sebert.jpg">
+            We zijn nu drie maanden verwijderd van Johan’s virtuele beklimming van de Mont Ventoux. Hoe staat hij er
+            momenteel voor om dat te doen lukken? Dat vroegen we aan Johan’s coach, Sebert Penen, zaakvoerder van
+            Personal. sportpraktijk. Sebert voelde na de eerste ontmoeting met Johan meteen een klik en zette graag zijn
+            schouders onder het S2SA project.
+        </x-media.activity>
+
         <x-media.activity title="Pack of Wolves Belgium: goede doel rit ten voordele S2SA"
                           date="25 mei 2024"
                           link="https://www.packofwolvesbelgium.be/"

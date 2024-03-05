@@ -23,13 +23,6 @@
                                linkedin="https://linkedin.com/in/joris-schuerwegen-b258747b"
                                website="https://www.motuslille.com/"
                 />
-                <x-team.member image="images/isabella.JPG"
-                               name="Isabella van der Meulen"
-                               function="Mental Coach"
-                               mail="contact@isabellavandermeulen.nl"
-                               linkedin="https://linkedin.com/in/isabella-van-der-meulen-6019a292"
-                               website="https://www.isabellavandermeulen.nl/"
-                />
                 <x-team.member image="images/pieter_steeno.jpg"
                                name="Pieter Steeno"
                                function="Sportarts"
@@ -50,13 +43,6 @@
                                mail="anneleen@personal-mechelen.be"
                                linkedin="https://linkedin.com/in/anneleen-lambrecht-94688849"
                                website="https://www.mpc-mechelen.be/nl"
-                />
-                <x-team.member image="images/HANS LEEMANS.jpeg"
-                               name="Hans Leemans"
-                               function="Vrijwillige Medewerker"
-                               mail="hans.leemans1@telenet.be"
-                               linkedin="https://linkedin.com/in/hans-leemans-a171713"
-                               website=""
                 />
                 <x-team.member image="images/sonia.jpg"
                                name="Sonia Wilmet"

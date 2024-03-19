@@ -21,7 +21,7 @@
             <p class="mb-4 lg:mb-8 mx-auto my-6 text-center text-2xl underline underline-offset-8 decoration-red-700 decoration-auto font-extrabold">
                 Exclusive</p>
 
-            <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-4 mb-4 lg:mb-8">
+            <div class="grid grid-cols-3 gap-8 text-gray-500 sm:gap-12 md:grid-cols-5 mb-4 lg:mb-8">
                 <x-partners.link href="https://wolffaertshof.be/"><img src="/images/Logo_Wolffaertshof.PNG" class="w-64"
                                                                        alt="Wolffaertshof"></x-partners.link>
                 <x-partners.link href="https://www.go4jobs.be/"><img src="/images/go4jobs.png" alt="Go4Jobs"
@@ -32,6 +32,9 @@
                 </x-partners.link>
                 <x-partners.link href="https://www.movealltheway.be/"><img src="/images/move_all_the_way.jpg"
                                                                             class="w-64" alt="Move All The Way">
+                </x-partners.link>
+                <x-partners.link href="https://www.aartselaar.be/"><img src="/images/aartselaar.png"
+                                                                           class="w-64" alt="Aartselaar">
                 </x-partners.link>
             </div>
 
@@ -121,10 +124,6 @@
                                 src="/images/SBK.jpg"
                                 alt="SBK Schrijnwerkerij">
                         </x-partners.link>
-                        <x-partners.link href="https://www.artore.be/"><img
-                                src="/images/artore.png"
-                                alt="Artore">
-                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="golden" role="tabpanel" aria-labelledby="golden-tab">
@@ -160,6 +159,14 @@
                         <x-partners.link href="https://www.kbc.be/particulieren/nl/kantoor/3706-AARTSELAAR-KAPELLESTRAAT-4.html"><img
                                 src="/images/kbc.png"
                                 alt="KBC">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.artore.be/"><img
+                                src="/images/artore.png"
+                                alt="Artore">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.aciron.be/"><img
+                                src="/images/aciron.png"
+                                alt="Aciron">
                         </x-partners.link>
                     </div>
                 </div>

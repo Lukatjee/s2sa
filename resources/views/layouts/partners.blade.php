@@ -36,6 +36,9 @@
                 <x-partners.link href="https://www.aartselaar.be/"><img src="/images/aartselaar.png"
                                                                            class="w-64" alt="Aartselaar">
                 </x-partners.link>
+                <x-partners.link href="https://dantha-photography.be/"><img src="/images/dantha.png"
+                                                                            alt="Dantha">
+                </x-partners.link>
             </div>
 
 
@@ -105,9 +108,6 @@
                         </x-partners.link>
                         <x-partners.link href="https://www.stannah.com/nl-be/"><img src="/images/stannah.jpg"
                                                                                     alt="Stannah">
-                        </x-partners.link>
-                        <x-partners.link href="https://dantha-photography.be/"><img src="/images/dantha.png"
-                                                                                    alt="Dantha">
                         </x-partners.link>
                         <x-partners.link href="https://packofwolvesbelgium.be/"><img src="/images/POW.png"
                                                                                      alt="Pack of Wolves">

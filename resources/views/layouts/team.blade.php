@@ -18,7 +18,7 @@
                 />
                 <x-team.member image="images/joris-schuerwegen.jpg"
                                name="Joris Schuerewegen"
-                               function="Kinesist"
+                               function="Kinesist & Medeoprichter"
                                mail="jorisschuerwegen@hotmail.com"
                                linkedin="https://linkedin.com/in/joris-schuerwegen-b258747b"
                                website="https://www.motuslille.com/"
@@ -35,6 +35,13 @@
                                function="Performance Coach"
                                mail="sebert@personal-mechelen.be"
                                linkedin="https://linkedin.com/in/sebertpenen"
+                               website="https://www.mpc-mechelen.be/nl"
+                />
+                <x-team.member image="images/lara_nerinckx.jpg"
+                               name="Lara Nerinckx"
+                               function="Kinesiste"
+                               mail="lara@mpc-mechelen.be"
+                               linkedin="https://www.linkedin.com/in/lara-nerinckx-4b5434180/?originalSubdomain=be"
                                website="https://www.mpc-mechelen.be/nl"
                 />
                 <x-team.member image="images/ANNEEN LAMBRCHT.jpg"
@@ -63,6 +70,12 @@
                                function="Penningmeester"
                                mail="benny.vervliet@fortesnet.be"
                                linkedin="https://linkedin.com/in/vervlietbenny"
+                               website=""/>
+                <x-team.member image="images/matthew_van_landeghem.jpg"
+                               name="Matthew Van Landeghem"
+                               function="Marketing & Eventmanager"
+                               mail="matthew@start2sportagain.be"
+                               linkedin="https://www.linkedin.com/in/matthew-van-landeghem-592b2015a/"
                                website=""/>
                 <x-team.member image="images/luka.jpg"
                                name="Luka Stoop"

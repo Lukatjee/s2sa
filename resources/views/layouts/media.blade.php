@@ -126,5 +126,17 @@
                           article="https://www.packofwolvesbelgium.be/"
                           img="images/flyer-goede-doelrit.jpg">
         </x-media.activity>
+
+        <x-media.activity title="RupelRun"
+                          date="2 juni 2024"
+                          link="https://www.facebook.com/events/945673603754869?ref=newsfeed"
+                          type="Evenementen"
+                          profile="images/rupelrun_logo.jpg"
+                          name="RupelRun"
+                          article="https://rupelrun.be"
+                          img="images/rupelrun.jpg">
+            Na 2 edities van de 'Proviron-Wolfoil 5 Mijl van Hemiksem' verandert het evenement in 2024 van naam naar RupelRun (omdat we meerdere afstanden willen aanbieden).
+            Een vertrouwde naam alvast voor wie tijdens Corona meeliep met de 'originele' RupelRun.
+        </x-media.activity>
     </div>
 </x-container>

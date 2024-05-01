@@ -177,6 +177,10 @@
                                 src="/images/aciron.png"
                                 alt="Aciron">
                         </x-partners.link>
+                        <x-partners.link href="https://www.afvalalternatief.be/"><img
+                                src="/images/afval_alternatief.png"
+                                alt="Afval Alternatief">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="silver" role="tabpanel" aria-labelledby="silver-tab">

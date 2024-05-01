@@ -39,6 +39,15 @@
                 <x-partners.link href="https://dantha-photography.be/"><img src="/images/dantha.png"
                                                                             alt="Dantha">
                 </x-partners.link>
+                <x-partners.link href="https://aansteker.media/"><img src="/images/aansteker_logo.png"
+                                                                            alt="Aansteker">
+                </x-partners.link>
+                <x-partners.link href="https://onuitwisbaarproducties.be/"><img src="/images/onuitwisbaar.png"
+                                                                            alt="Onuitwisbaar">
+                </x-partners.link>
+                <x-partners.link href="https://zorion.be/"><img src="/images/zorion.jpg"
+                                                                            alt="Zorion">
+                </x-partners.link>
             </div>
 
 
@@ -272,6 +281,10 @@
                         <x-partners.link href="https://www.a12rupel.be/"><img
                                 src="/images/beamer.png"
                                 alt="A12 Rupel">
+                        </x-partners.link>
+                        <x-partners.link href="https://ideco.gift/"><img
+                                src="/images/ideco.png"
+                                alt="IDeco">
                         </x-partners.link>
                     </div>
                 </div>

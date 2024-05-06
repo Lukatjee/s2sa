@@ -133,6 +133,10 @@
                                 src="/images/SBK.jpg"
                                 alt="SBK Schrijnwerkerij">
                         </x-partners.link>
+                        <x-partners.link href="https://rupelrun3.webnode.be/"><img
+                                src="/images/rupelrun_logo.jpg"
+                                alt="RupelRun">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="golden" role="tabpanel" aria-labelledby="golden-tab">

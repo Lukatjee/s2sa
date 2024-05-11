@@ -17,8 +17,21 @@
             mentale, fysieke en algehele gezondheid van de betrokkenen onder de aandacht van de overheid brengen.</p>
 
         <h2>Initiatief 2024</h2>
-        <p>Johan De Groof, de stichter van S2SA, wiens één been geamputeerd is, gaat de uitdaging aan om tijdens een
-            evenement dat we op 25 mei 2024 organiseren, met behulp van Strava de Mont Ventoux te beklimmen.</p>
+        <p>Johan De Groof, de stichter van S2SA, wiens één been geamputeerd is, gaat de uitdaging aan om tijdens
+            onderstaand evenement, met behulp van Strava de Mont Ventoux te beklimmen.</p>
+        <ul>
+            <li>Waar: <a href="https://search.app.goo.gl/V1Yq2P3">'t Sportzicht Brasserie & Grill</a>, Sportcentrum,
+                <span class="font-bold">Kleistraat 204, 2630 Aartselaar</span></li>
+            <li>Wanneer: <span class="font-bold">25 mei 2024</span> tussen <span class="font-bold"> 15.00u </span>en
+                <span class="font-bold">19.00u</span></li>
+            <li>Doorlopend:
+                <ul>
+                    <li class="list-item">Drinks & Food</li>
+                    <li class="list-item">Springkasteel</li>
+                    <li class="list-item">Rondrit met sidecar</li>
+                </ul>
+            </li>
+        </ul>
         <img class="m-auto" src="images/johan2.jpg" alt="Image Johan">
         <h2>Project 2024 - 2025</h2>
         <p>Ook in 2025 ondersteunt Start 2 Sport Again de sportieve ambitie van een uitzonderlijk veerkrachtige persoon
@@ -28,8 +41,10 @@
         <p class="font-bold text-center">Met de ingezamelde fondsen zal S2SA een nieuwe handbike voor Stijn aankopen</p>
     </article>
     <div class="pt-16">
-        <h2 class="mb-4 lg:mb-8 text-3xl font-extrabold tracking-tight leading-tight text-center text-gray-900 md:text-4xl">Meter en Peter</h2>
-        <p class="mb-4 lg:mb-8 mx-auto my-6 text-center text-gray-500">Om het initiatief kracht bij te zetten, zocht Johan een meter en peter voor S2SA. Al snel kwam hij terecht
+        <h2 class="mb-4 lg:mb-8 text-3xl font-extrabold tracking-tight leading-tight text-center text-gray-900 md:text-4xl">
+            Meter en Peter</h2>
+        <p class="mb-4 lg:mb-8 mx-auto my-6 text-center text-gray-500">Om het initiatief kracht bij te zetten, zocht
+            Johan een meter en peter voor S2SA. Al snel kwam hij terecht
             bij Aartselaarse schepenen Hilde Heyman en Bart Lambrecht. “Op de Lentedrink van de gemeente leerden we
             Johan en zijn verhaal kennen. We waren eerst verbaasd van zijn moed, maar zagen het meteen zitten om mee te
             werken”</p>

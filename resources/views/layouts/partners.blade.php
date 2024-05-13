@@ -208,6 +208,10 @@
                                 src="/images/Carrefour.jpg"
                                 alt="Avanti BV">
                         </x-partners.link>
+                        <x-partners.link href="https://www.verkeersplatform.be/"><img
+                                src="/images/verkeersplatform.jpg"
+                                alt="Verkeersplatform">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="bronze" role="tabpanel" aria-labelledby="bronze-tab">

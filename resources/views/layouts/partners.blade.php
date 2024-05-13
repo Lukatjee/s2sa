@@ -48,6 +48,9 @@
                 <x-partners.link href="https://zorion.be/"><img src="/images/zorion.jpg"
                                                                             alt="Zorion">
                 </x-partners.link>
+                <x-partners.link href="https://www.mpc-mechelen.be/nl"><img src="/images/mpc.png"
+                                                                            alt="MPC">
+                </x-partners.link>
             </div>
 
 

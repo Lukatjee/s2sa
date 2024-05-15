@@ -301,6 +301,10 @@
                                 src="/images/ideco.png"
                                 alt="IDeco">
                         </x-partners.link>
+                        <x-partners.link href="https://www.standaardboekhandel.be/winkels/aartselaar"><img
+                                src="/images/standaard_boekhandel.png"
+                                alt="Standaard Boekhandel">
+                        </x-partners.link>
                     </div>
                 </div>
             </div>

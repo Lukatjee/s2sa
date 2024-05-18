@@ -51,6 +51,9 @@
                 <x-partners.link href="https://www.mpc-mechelen.be/nl"><img src="/images/mpc.png"
                                                                             alt="MPC">
                 </x-partners.link>
+                <x-partners.link href="https://www.waypointleuven.be/nl"><img src="/images/Fietssponsor.png"
+                                                                            alt="Waypoint/Wahoo/2Moso">
+                </x-partners.link>
             </div>
 
 
@@ -208,10 +211,6 @@
                                 src="/images/Carrefour.jpg"
                                 alt="Avanti BV">
                         </x-partners.link>
-                        <x-partners.link href="https://www.verkeersplatform.be/"><img
-                                src="/images/verkeersplatform.jpg"
-                                alt="Verkeersplatform">
-                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="bronze" role="tabpanel" aria-labelledby="bronze-tab">
@@ -304,6 +303,10 @@
                         <x-partners.link href="https://www.standaardboekhandel.be/winkels/aartselaar"><img
                                 src="/images/standaard_boekhandel.png"
                                 alt="Standaard Boekhandel">
+                        </x-partners.link>
+                        <x-partners.link href="https://www.verkeersplatform.be/"><img
+                                src="/images/verkeersplatform.jpg"
+                                alt="Verkeersplatform">
                         </x-partners.link>
                     </div>
                 </div>

@@ -211,6 +211,10 @@
                                 src="/images/Carrefour.jpg"
                                 alt="Avanti BV">
                         </x-partners.link>
+                        <x-partners.link href="https://www.aartselaar.be/nl/content/1139/sportraad.html#:~:text=De%20sportraad%20vergadert%20elke%202de,mail%20info%40aartselaar.be."><img
+                                src="/images/sportraad.jpg"
+                                alt="Sportraad">
+                        </x-partners.link>
                     </div>
                 </div>
                 <div class="hidden p-4 rounded-lg" id="bronze" role="tabpanel" aria-labelledby="bronze-tab">

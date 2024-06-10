@@ -1,5 +1,17 @@
 <x-container>
     <div class="mt-16 space-y-20 lg:mt-20 lg:space-y-20">
+
+        <div class="flex flex-col gap-y-2">
+            <div>
+                <h1 class="font-semibold leading-6 text-gray-900 text-xl">Zweetdruppels - De topprestatie van Johan</h1>
+                <span class="text-gray-500 text-xs">25 mei 2024</span>
+            </div>
+            <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/ZpWdCCgF0cM?si=JzgmUymHDom2TZHm"
+                    title="YouTube video player"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+            </iframe>
+        </div>
         <x-media.activity title="Oprichting Start2SportAgain" date="25 september 2022"
                           link="https://facebook.com/story.php?story_fbid=pfbid034o6u6hXVCx2pv2Tk9cmd3VxXzHkxMzaXK2xHB9SCT4Hn5omojXt3wYJ8fvBgFub1l&id=1513156899"
                           type="Ontstaan"
@@ -135,7 +147,8 @@
                           name="RupelRun"
                           article="https://rupelrun.be"
                           img="images/rupelrun.jpg">
-            Na 2 edities van de 'Proviron-Wolfoil 5 Mijl van Hemiksem' verandert het evenement in 2024 van naam naar RupelRun (omdat we meerdere afstanden willen aanbieden).
+            Na 2 edities van de 'Proviron-Wolfoil 5 Mijl van Hemiksem' verandert het evenement in 2024 van naam naar
+            RupelRun (omdat we meerdere afstanden willen aanbieden).
             Een vertrouwde naam alvast voor wie tijdens Corona meeliep met de 'originele' RupelRun.
         </x-media.activity>
     </div>

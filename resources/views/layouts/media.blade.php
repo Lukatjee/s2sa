@@ -161,5 +161,37 @@
                           img="images/rupelrun-inzameling.png">
             De organisatoren van de RupelRun hebben de opbrengst van hun jongste editie overhandigd aan Start 2 Sport Again. Dat is een vzw die mensen met een beperking de kans wil geven om te sporten.
         </x-media.activity>
+        <x-media.activity title="RupelRun"
+                          date="2 juni 2024"
+                          link="https://www.facebook.com/events/945673603754869?ref=newsfeed"
+                          type="Evenementen"
+                          profile="images/rupelrun_logo.jpg"
+                          name="RupelRun"
+                          article="https://rupelrun.be"
+                          img="images/rupelrun.jpg">
+            Na 2 edities van de 'Proviron-Wolfoil 5 Mijl van Hemiksem' verandert het evenement in 2024 van naam naar
+            RupelRun (omdat we meerdere afstanden willen aanbieden).
+            Een vertrouwde naam alvast voor wie tijdens Corona meeliep met de 'originele' RupelRun.
+        </x-media.activity>
+        <x-media.activity title="RupelRun levert 2.500 euro op voor vzw Start 2 Sport Again"
+                          date="8 juli 2024"
+                          link="https://www.hln.be/hemiksem/rupelrun-levert-2-500-euro-op-voor-vzw-start-2-sport-again~a42fd83c/?referrer=https%3A%2F%2Fwww.google.com%2F"
+                          type="Pers"
+                          profile="images/rupelrun_logo.jpg"
+                          name="RupelRun"
+                          article="https://rupelrun.be"
+                          img="images/rupelrun-inzameling.png">
+            De organisatoren van de RupelRun hebben de opbrengst van hun jongste editie overhandigd aan Start 2 Sport Again. Dat is een vzw die mensen met een beperking de kans wil geven om te sporten.
+        </x-media.activity>
+        <x-media.activity title="Zomerbabbel met... Johan De Groof"
+                          date="26 juli 2024"
+                          link="https://www.youtube.com/watch?v=Xz3l9R8iL3E"
+                          type="Pers"
+                          profile="images/aansteker.png"
+                          name="Aansteker"
+                          article="https://rupelaarwilrijk.aansteker.media/"
+                          img="images/zomerbabbel.webp">
+            De organisatoren van de RupelRun hebben de opbrengst van hun jongste editie overhandigd aan Start 2 Sport Again. Dat is een vzw die mensen met een beperking de kans wil geven om te sporten.
+        </x-media.activity>
     </div>
 </x-container>
